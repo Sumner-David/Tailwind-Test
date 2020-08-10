@@ -1,0 +1,22 @@
+{
+  "name": "tailwindcsstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumner-David/Tailwind-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumner-David/Tailwind-Test/issues"
+  },
+  "homepage": "https://github.com/Sumner-David/Tailwind-Test#readme",
+  "devDependencies": {
+    "tailwindcss": "^1.6.2"
+  }
+}
